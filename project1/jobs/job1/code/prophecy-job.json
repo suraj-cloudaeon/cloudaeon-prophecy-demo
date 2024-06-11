@@ -207,7 +207,7 @@
         "configurations" : {
           "schema" : [ ],
           "instances" : {
-            "project_suraj_demo4" : [ "default" ]
+            "project1" : [ "default" ]
           },
           "overrides" : { },
           "selectedInstance" : "default"
